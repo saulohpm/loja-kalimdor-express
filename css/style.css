@@ -1,0 +1,98 @@
+/* ===== FONTE ===== */
+@font-face {
+  font-family: 'LifeCraft';
+  src: url('../fonts/LifeCraft.ttf') format('truetype');
+}
+
+/* ===== GLOBAL ===== */
+body {
+  margin: 0;
+  background-color: #020617;
+  font-family: 'LifeCraft', serif;
+  color: #e5e7eb;
+}
+
+h1 {
+  margin: 0;
+  font-size: 35px;
+}
+
+h2 {
+  color: #facc15;
+  margin-bottom: 25px;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+
+p {
+  margin-bottom: 20px;
+  line-height: 1.7;
+  font-size: 20px;
+  color: #d1d5db;
+}
+
+a {
+  color: #facc15;
+  text-decoration: none;
+  font-size: 20px;
+  transition: 0.2s;
+}
+
+a:hover {
+  color: #ffffffbb;
+}
+
+/* ===== HEADER ===== */
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 75px;
+
+  background-color: rgb(30, 30, 30);
+  color: #facc15;
+
+  gap: 8px;
+  z-index: 1000;
+}
+
+/* ===== MENU ===== */
+.menu {
+  display: flex;
+  gap: 20px;
+}
+
+/* ===== IMAGEM PRINCIPAL ===== */
+.container img {
+  display: block;
+  margin: 100px auto 0px auto;
+  max-width: 70%;
+  height: auto;
+}
+
+.container {
+  text-align: center;
+}
+
+/* ===== SOBRE ===== */
+#sobre {
+  padding: 120px 20px 60px;
+}
+
+/* CONTEÚDO */
+#sobre .conteudo {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* DESTAQUE */
+#sobre strong {
+  color: #facc15;
+}
