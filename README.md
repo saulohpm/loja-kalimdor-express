@@ -1,6 +1,6 @@
-# Arsenal Rúnico
+# Kalimdor Express
 
-O **Arsenal Rúnico** é um projeto de site desenvolvido com HTML, com o objetivo de apresentar uma identidade visual inspirada em elementos do jogo World of Warcraft. A proposta do projeto é criar uma página inicial (home) simples, organizada e funcional, servindo como base para evolução futura com CSS, JavaScript e possíveis integrações.
+O **Kalimdor Express** é um projeto de site desenvolvido com HTML, com o objetivo de apresentar uma identidade visual inspirada em elementos do jogo World of Warcraft da empresa Blizzard. A proposta do projeto é criar uma página inicial (home) simples, organizada e funcional, servindo como base para evolução futura com CSS, JavaScript e possíveis integrações.
 
 A estrutura do site foi pensada para ser clara e direta, facilitando tanto a navegação do usuário quanto o aprendizado no desenvolvimento front-end. A página principal contém um cabeçalho com menu de navegação, um banner visual, uma seção de destaque com frase temática, apresentação de produtos e uma breve descrição sobre o projeto.
 
@@ -8,12 +8,20 @@ A estrutura do site foi pensada para ser clara e direta, facilitando tanto a nav
 
 O projeto está organizado de forma simples, seguindo um padrão básico de separação de arquivos:
 
-- `index.html` → Página principal do site  
-- `pages/sobre.html` → Página "Sobre nós"  
-- `css/style.css` → Arquivo de estilos (em desenvolvimento)  
-- `img/` → Pasta com imagens utilizadas no site  
-
-Essa organização permite fácil manutenção e expansão do projeto.
+```
+├── index.html
+├── README.md
+├── pages/
+│   ├── sobre.html
+│   └── produtos.html
+├── css/
+│   └── style.css
+├── fonts/
+│   └── LifeCraft.ttf
+└── img/
+    ├── banner-home.png
+    └── pao.png
+```
 
 ## Funcionalidades
 
