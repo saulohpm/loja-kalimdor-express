@@ -11,19 +11,36 @@ O projeto está organizado de forma simples, seguindo um padrão básico de sepa
 ```
 ├── index.html
 ├── README.md
+│
 ├── pages/
 │   ├── sobre.html
 │   └── produtos.html
+│
 ├── css/
 │   └── style.css
+│
 ├── fonts/
 │   └── LifeCraft.ttf
+│
 └── img/
-    ├── banner-home.png
-    ├── pocao-cura.png
-    ├── pocao-mana.png
-    ├── espada-queldalar.png
-    └── pao.png
+    ├── ui/
+    │   ├── banner-home.png
+    │   ├── mapa-azeroth.png
+    │   └── logo.png
+    │
+    ├── items/
+    │   ├── pocao-cura.png
+    │   ├── pocao-mana.png
+    │   ├── espada-queldalar.png
+    │   ├── pao.png
+    │   ├── tunica-aprendiz-alianca.png
+    │   └── laminas-illidan.png
+    │
+    └── coins/
+        ├── gold.png
+        ├── silver.png
+        ├── copper.png
+        └── coins.png
 ```
 
 ## Funcionalidades
@@ -31,12 +48,9 @@ O projeto está organizado de forma simples, seguindo um padrão básico de sepa
 Atualmente, o site possui:
 
 - Navegação básica entre páginas  
-- Estrutura semântica em HTML  
-- Seção de banner para destaque visual  
+- Estrutura semântica em HTML e CSS  
+- Seções com destaques visuais  
 - Área de produtos em destaque  
-- Conteúdo institucional resumido  
-
-O foco neste estágio é a construção da base estrutural, priorizando HTML limpo e bem organizado.
 
 ## Demonstração
 Acesse a loja em tempo real através do link
