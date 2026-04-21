@@ -20,6 +20,10 @@ O projeto está organizado de forma simples, seguindo um padrão básico de sepa
 │   └── LifeCraft.ttf
 └── img/
     ├── banner-home.png
+    ├── banner-home2.png
+    ├── pocao-cura.png
+    ├── pocao-mana.png
+    ├── espada-queldalar.png
     └── pao.png
 ```
 
@@ -34,3 +38,7 @@ Atualmente, o site possui:
 - Conteúdo institucional resumido  
 
 O foco neste estágio é a construção da base estrutural, priorizando HTML limpo e bem organizado.
+
+## Demonstração
+Acesse a loja em tempo real através do link
+👉 **[Kalimdor Express](https://saulohpm.github.io/loja-virtual/index.html)**
