@@ -2,7 +2,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Versão](https://img.shields.io/badge/Versão_3.5-purple)
+![Versão](https://img.shields.io/badge/Versão_1.6-purple)
 ![Status](https://img.shields.io/badge/Finalizado-brightgreen)
 
 O **Kalimdor Express** é um projeto de site básico, desenvolvido com HTML e CSS, com o objetivo de apresentar uma identidade visual inspirada em elementos do jogo *World of Warcraft*, da empresa Blizzard. A proposta do projeto é criar uma página inicial (home) simples.
@@ -15,11 +15,8 @@ O **Kalimdor Express** é um projeto de site básico, desenvolvido com HTML e CS
 
 ## 🛠️ Tecnologias utilizadas
 
-| **Tecnologia** | **Uso**                                 |
-| -------------- | --------------------------------------- |
-|    **HTML5**   | Estrutura semântica das páginas         |
-|    **CSS3**    | Estilização, layout e identidade visual |
-
+- 🌐 HTML5: estrutura semântica das páginas
+- 🎨 CSS3: estilização, layout e identidade visual
 
 ## ✅ Funcionalidades
 
