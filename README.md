@@ -30,7 +30,6 @@ Atualmente, o site possui:
 
 ## 📂 Estrutura do Projeto
 
-O projeto está organizado de forma simples, seguindo um padrão básico de separação de arquivos:
 ```
 loja-kalimdor-express/
 │
